@@ -30,7 +30,7 @@ This project streamlines operations, ensures accurate billing, and enhances inve
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Paresh018/Store-Management-System.git
 ```
 
 To run the project
